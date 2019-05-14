@@ -2,9 +2,11 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import * as serviceWorker from "./serviceWorker";
-import "./index.css";
-
 import App from "./App";
+
+import "./assets/calendar.css";
+import "./index.css";
+import "./assets/colors.css";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 

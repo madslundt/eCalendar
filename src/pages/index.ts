@@ -1,5 +1,5 @@
 import Home from "./Home";
-import Profile from "./Profile";
+import Event from "./Event";
 import Settings from "./Settings";
 
-export { Home, Profile, Settings };
+export { Home, Event, Settings };

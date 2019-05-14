@@ -21,7 +21,7 @@ const Counter = (props: IProps) => {
           Increment
         </button>
         <button
-          className="text-sm font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-red text-red hover:bg-purple hover:text-white outline-none"
+          className="text-sm font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-red eboks-text-red hover:bg-purple hover:text-white outline-none"
           onClick={decrement}
         >
           Decrement
